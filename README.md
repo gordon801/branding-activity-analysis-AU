@@ -2,7 +2,7 @@
 This project was done to analyse the impact of an increased level of branding activity conducted in Australia and to assess if it produced a noticeable increase in the number of transactions. This assessment was done by comparing the results of an exposed area to increased digital advertisements (Western Australia) against the results from an non-exposed area (South Australia) where there was no change in advertising.
 
 ## Input
-* branding_experiment_data.csv: Time-stamped data containing relevant statistics from across Australia (all states). 
+* branding_experiment_data.csv: Time-stamped data containing relevant statistics from across Australia (all states) over the period from 2019-01 to 2021-06. 
 
 ![image](https://user-images.githubusercontent.com/62014067/127532383-c85494ba-4e55-4eea-b23b-92b7d362eee4.png)
 
