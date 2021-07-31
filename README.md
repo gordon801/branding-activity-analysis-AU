@@ -10,7 +10,7 @@ This project was done to analyse the impact of an increased level of branding ac
 * branding_analysis.ipynb: This Jupyter notebook provides detailed analysis and documentation of the process.
 
 ## Key Observations
-Regarding the specific increase in transactions:
+Regarding specifically the increase in transactions:
 * At the end of the first year (2019), we observe an overall 17.3x increase in transactions for WA (exposed area) vs a 16.5x increase in SA (non-exposed area).
 * At the end of the second year (2020), we observe an overall 42.8x increase in transactions for WA vs a 42.0x increase in SA.
 * In our last month (2021-07), we observe an overall 53.2x increase in transactions for WA vs a 51.9x increase in SA.
